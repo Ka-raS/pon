@@ -1,8 +1,7 @@
 # pon
 
-Live Demo: https://ka-ras.github.io/pon/
-
 <div align="center">
+  <a href="https://ka-ras.github.io/pon/">https://ka-ras.github.io/pon/</a>
   <img src="./screenshot.png" alt="Screenshot">
 </div>
 
