@@ -19,7 +19,3 @@ python -m http.server 8000 # or `npx http-server -c-1` or meh
 - Space: Start / Restart game
 - W S: Move left paddle
 - ↑ ↓: Move right paddle
-
-## Notes
-
-Game này dùng nhiều hàm của Phaser quá, nếu đổi logic thành code from scratch thì tách được nhiều đề bài hay hơn.
